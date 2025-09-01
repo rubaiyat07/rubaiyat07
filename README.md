@@ -8,30 +8,67 @@
 
 ---
 
-## 🌟 About Me
-- 🔭 Currently building **Web Applications** with Laravel, MySQL & JavaScript  
-- 🌱 Exploring **React, Vue.js, and modern frontend stacks**  
-- 👯 Open to collaborate on **Open Source & Startup Projects**  
-- 💬 Don't ask me about **Laravel | PHP | MySQL | jQuery | Ajax**  
-- 📫 Reach me at: **rubaiyat97wd@gmail.com**  
-- ⚡ Fun fact: I love turning ideas into real-life projects ✨  
+## 🌟 About Me  <p align="right">
+  <img src="https://komarev.com/ghpvc/?username=rubaiyat07&style=for-the-badge&color=blue" alt="profile views"/>
+</p>
+
+```javascript
+const rubaiyat = {
+    pronouns: "She" | "Her",
+    code: ["PHP", "JavaScript", "MySQL", "HTML", "CSS"],
+    askMeAbout: ["web dev", "backend", "databases", "open source"],
+    technologies: {
+        frontEnd: {
+            js: ["Vue.js", "React"],
+            css: ["Bootstrap"],
+        },
+        backEnd: {
+            php: ["Laravel"],
+        },
+        devOps: ["GitHub Actions", "Docker🐳"],
+        databases: ["MySQL"],
+        misc: ["jQuery", "Ajax", "REST APIs"],
+    },
+    architecture: {
+        backEnd: ["monolithic", "serverless"],
+        databases: ["Relational"],
+    },
+    currentFocus: "Building Web Applications with Laravel & MySQL",
+    funFact: "I love turning ideas into real-life projects ✨"
+};
+````
+
+```css
+#rubaiyat {
+  position: Dhaka, Bangladesh; 
+  height: 158cm; 
+  display: girl; 
+  background: Tinker Resolver 🔨; 
+  color: yellow;
+}
+```
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack
 
-### 💻 Languages & Frameworks  
+### 💻 Languages & Frameworks
+
 <p align="left">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
 </p>
 
-### ⚙️ Tools & Others  
+<p>🌱 Currently learning: <b>Laravel</b></p>
+
+### ⚙️ Tools & Others
+
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -40,7 +77,7 @@
 
 ---
 
-## 📊 GitHub Analytics  
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rubaiyat07&show_icons=true&theme=tokyonight" height="160" />
@@ -54,11 +91,13 @@
 ---
 
 ## 🖥️ Contribution Graph
-![Rubaiyat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rubaiyat07&theme=tokyo-night)
+
+![Rubaiyat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rubaiyat07\&theme=tokyo-night)
 
 ---
 
 ## 🌐 Connect with Me
+
 <p align="left">
   <a href="https://linkedin.com/in/rubaiyat07" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -70,8 +109,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rubaiyat07&style=for-the-badge&color=blue" alt="profile views"/>
-</p>
-
-⭐️ From [Rubaiyat Afreen](https://https://github.com/rubaiyat07)
+⭐️ From **Rubaiyat Afreen** ([@rubaiyat07](https://github.com/rubaiyat07))
