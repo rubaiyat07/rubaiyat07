@@ -43,18 +43,18 @@
 ## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rubaiyat07&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rubaiyat07&theme=tokyonight" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubaiyat07&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 ---
 
 ## 🖥️ Contribution Graph
-![Rubaiyat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=tokyo-night)
+![Rubaiyat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rubaiyat07&theme=tokyo-night)
 
 ---
 
@@ -71,7 +71,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge&color=blue" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=rubaiyat07&style=for-the-badge&color=blue" alt="profile views"/>
 </p>
 
 ⭐️ From [Rubaiyat Afreen](https://https://github.com/rubaiyat07)
