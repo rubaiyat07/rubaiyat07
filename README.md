@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there 👋, I'm Rubaiyat Afreen  
 
-<!--
-**rubaiyat07/rubaiyat07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Passionate about **Web Development** | **PHP & Laravel Enthusiast** | **Learning Everyday**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🔭 Currently working on **Web App projects** with PHP, Laravel, MySQL  
+- 🌱 Exploring **React, Vue, and modern JS frameworks**  
+- 👯 Looking to collaborate on **Open Source & Startup Ideas**  
+- 💬 Ask me about **Laravel, PHP, MySQL, jQuery, Ajax**  
+- 📫 Reach me: [your-email@example.com]  
+- ⚡ Fun fact: I love solving problems and turning ideas into real projects  
+
+---
+
+## 🛠️ Skills
+- **Languages:** PHP, JavaScript, SQL, HTML, CSS  
+- **Frameworks & Tools:** Laravel, Bootstrap, jQuery, Ajax  
+- **Databases:** MySQL  
+- **Others:** Git, GitHub, REST APIs  
+
+---
+
+## 📈 GitHub Stats
+![Rubaiyat's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)  
+
+---
+
+## 🌐 Connect with Me
+- LinkedIn: [Your LinkedIn Profile](#)  
+- Portfolio: [Your Portfolio Website](#)  
+
+---
+
+⭐️ From [Rubaiyat Afreen](https://github.com/your-github-username)
