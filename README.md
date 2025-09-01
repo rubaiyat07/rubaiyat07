@@ -6,11 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=600&height=45&lines=Web+Developer+from+Bangladesh;Passionate+about+Laravel+%7C+PHP+%7C+MySQL;Always+learning+new+technologies+🚀" />
 </p>
 
-<!-- Starry Glitter Background -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=120&text=✨%20Starry%20Night%20Vibes%20✨&fontAlign=50&fontAlignY=50&color=0:000000,100:1a1a2e&animation=twinkling&stroke=FFFFFF&strokeWidth=2" alt="starry-banner"/>
-</p>
-
 ---
 
 ## 🌟 About Me
